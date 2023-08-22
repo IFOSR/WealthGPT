@@ -1,7 +1,18 @@
-# BuffettGPT ：穿越市场波动，让投资更简单
+# 
 
 ![image](https://github.com/IFOSR/BuffettGPT/assets/142784275/455f9bf1-fd43-4df9-a8d5-9998eab3040c)
 
+
+<h1 align="center">
+  BuffettGPT ：穿越市场波动，让投资更简单
+</h1>
+<p align="center" width="100%">
+  <img src=https://github.com/IFOSR/BuffettGPT/assets/142784275/455f9bf1-fd43-4df9-a8d5-9998eab3040c alt="Llama" style="width: 50%; display: block; margin: auto;"></a>
+</p>
+<p align="center">
+  <font face="黑体" color=orange size="6"> BuffettGPT ：穿越市场波动，让投资更简单 </font>
+</p>
+</br></br>
 
 投资是一项具有挑战性的任务。然而，随着科技的飞速发展，我们有了更多机会利用最新的技术来改进投资决策过程。OpenAI的ChatGPT、GPT-4等商业大模型在信息处理与内容生成上给人们留下了非常深刻的印象，把人工智能推向了商业化的聚光灯下。同时，以LLaMA和LLaMA2为代表的开源大模型把智能化带到了各个垂直领域，通过指令微调展示出了不逊于ChatGPT的性能，推动了大模型在垂直业务领域的应用。但是，金融系统是一个极其庞大的复杂系统，影响投资收益的因素非常多，从宏观环境到企业基本面，从市场情绪到政治关系都对价格波动有直接影响。为了解决这个问题，我们提出了BuffettGPT，一个为投资而生的金融大模型，为投资者带来更准确的市场分析、个性化的投资建议和更好的投资回报。
 
