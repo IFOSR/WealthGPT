@@ -109,7 +109,7 @@
 ## 模型参数
 
 我们目前公开了以下版本的 LLaMA：
-* `fin-alpaca-lora-7b-beta0.1`: 以[Chinese-LLaMA-7B](https://github.com/ymcui/Chinese-LLaMA-Alpaca)为基础，未经过金融语料连续训练，使用通用指令和金融指令进行SFT。
+* `fin-alpaca-lora-7b-beta0.1`: 以[Chinese-LLaMA-7B](https://github.com/ymcui/Chinese-LLaMA-Alpaca)为基础，经过金融语料连续训练，使用通用指令和金融指令进行SFT。
 
 ### 下载地址：
 链接：https://pan.baidu.com/s/1tEuj0SvwJK4czQPCE6gI9w?pwd=onfo 
@@ -122,7 +122,7 @@
 
 ## 致谢
 
-本项目的开放过程中，获得了以下项目的文档和帮助，用到的代码不在项目中一一标出了，在此表示感谢。
+本项目的开发过程中，获得了以下项目的文档和帮助，用到的代码不在项目中一一标出了，在此表示感谢。
 
 https://github.com/ymcui/Chinese-LLaMA-Alpaca
 
