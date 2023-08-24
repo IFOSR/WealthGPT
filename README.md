@@ -112,8 +112,7 @@
 * `fin-alpaca-lora-7b-beta0.1`: 以[Chinese-LLaMA-7B](https://github.com/ymcui/Chinese-LLaMA-Alpaca)为基础，经过金融语料连续训练，使用通用指令和金融指令进行SFT。
 
 ### 下载地址：
-链接：https://pan.baidu.com/s/1tEuj0SvwJK4czQPCE6gI9w?pwd=onfo 
-提取码：onfo
+链接：https://drive.google.com/drive/folders/1-wJxjCbu0wNANvPQSNemLu7aTM9wxu2A
 
 ## 训练和测试教程
 
