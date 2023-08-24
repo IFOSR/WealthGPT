@@ -116,7 +116,7 @@
 
 ## 训练和测试教程
 
-训练和测试教程请参考: [train/finetune_fin_alpaca_lora.ipynb](https://github.com/IMOSR/Media-LLaMA/tree/master/train/finetune_media_alpaca_lora.ipynb)
+训练和测试教程请参考: [train/finetune_fin_alpaca_lora.ipynb](https://github.com/IFOSR/BuffettGPT/blob/main/train/finetune_fin_alpaca_lora.ipynb)
 
 
 ## 致谢
