@@ -3,7 +3,7 @@
   WealthGPT
 </h1>
 <p align="center" width="100%">
-  <img src=https://github.com/IFOSR/BuffettGPT/assets/142784275/455f9bf1-fd43-4df9-a8d5-9998eab3040c alt="Llama" style="width: 30%; display: block; margin: auto;"></a>
+  <img src=https://github.com/IFOSR/WealthGPT/assets/142784275/455f9bf1-fd43-4df9-a8d5-9998eab3040c alt="Llama" style="width: 30%; display: block; margin: auto;"></a>
 </p>
 <p align="center">
   <font face="黑体" color=orange size="6"> WealthGPT ：穿越市场波动，让投资更简单 </font>
@@ -116,7 +116,7 @@
 
 ## 训练和测试教程
 
-训练和测试教程请参考: [train/finetune_fin_alpaca_lora.ipynb](https://github.com/IFOSR/BuffettGPT/blob/main/train/finetune_fin_alpaca_lora.ipynb)
+训练和测试教程请参考: [train/finetune_fin_alpaca_lora.ipynb](https://github.com/IFOSR/WealthGPT/blob/main/train/finetune_fin_alpaca_lora.ipynb)
 
 
 ## 致谢
